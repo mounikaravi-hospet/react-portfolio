@@ -88,7 +88,12 @@ class Contact extends Component {
                   <input type="text" name="contactSubject" />
                   <label>Message</label>
                   <textarea name="contactMessage" />
-                  <input type="submit" value="Submit" />
+                  {/* <input type="submit" value="Submit" /> */}
+                  
+                  <div>
+                     <button className="submit">Submit</button>
+                  
+                  </div>
                </form>
 
            {/* <div id="message-warning"> Error boy</div>
