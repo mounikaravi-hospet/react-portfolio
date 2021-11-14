@@ -2,10 +2,10 @@
   "main": {
     "name": "Mounika Ravi Hospet",
     "occupation": "Computer Science graduate student",
-    "description": "I am a developer  and looking for a summer internship. Before my masters I worked as a Software Developer.",
+    "description": "I am a developer  proficient in Java, Python, Angular and SQL",
     "college":"Georgia State University",
     "image": "photo.jpg",
-    "bio": "I am passionate about working as a Software Developer, Web Developer, and/or Database Developer. I have an experience of 2 years as an Angular Developer and front-end development is my forte. I have also been learning React to expand my skillet in the front-end frameworks. Though I am not experienced as a database developer, the design and development of databases and the logic to design a database really fascinates me.",
+    "bio": "Software, Web and Database development enthusiast. I have an experience of 2 years as an Angular Developer and front-end development is my forte. I have also been learning React to expand my skillet in the front-end frameworks. Though I am not as experienced in database development, working with it fascinates me.",
     "contactmessage": "Please enter your message and details below to get in touch with me.",
     "email": "hmounikaravi@gmail.com",
     "phone": "470-815-4862",
